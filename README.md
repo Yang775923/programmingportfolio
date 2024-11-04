@@ -13,7 +13,7 @@ A project with a timeline where when your mouse hovers over the years, the histo
 
 ![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/ComputerHistory.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/Yang775923/programmingportfolio/blob/main/src/term1/Computer_History_Timeline_.pde)
 
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
