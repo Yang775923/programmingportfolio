@@ -13,7 +13,7 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 ![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/EtchASk.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/Yang775923/programmingportfolio/blob/main/src/term1/Etch_A_Sketch.pde)
 
 ## Term 2
 ### Calculator
