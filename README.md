@@ -18,5 +18,5 @@ Graphics project with keypress drawing controls with the ability to save images.
 ### Calculator
 Object oriented graphical calculator with custom but tons and UI.
 
-![Running App]()
+![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/Calculator.png?raw=true)
 [Source Code]()
