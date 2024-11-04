@@ -8,6 +8,13 @@
  * When in doubt, restart your device
 
 ## Term 1 
+### Computer History
+A project with a timeline where when your mouse hovers over the years, the history description pops up.
+
+![Running App]()
+
+[Source Code]()
+
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
 
@@ -16,6 +23,7 @@ Graphics project with keypress drawing controls with the ability to save images.
 [Source Code](https://github.com/Yang775923/programmingportfolio/blob/main/src/term1/Etch_A_Sketch.pde)
 
 ### Grading App
+An app that helps identify your grade based on your PBL score.
 
 ![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/GradApp.png?raw=true)
 
