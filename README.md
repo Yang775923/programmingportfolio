@@ -10,12 +10,13 @@
 ## Term 1 
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
+
 ![Running App]()
 [Source Code]()
 
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custom but tons and UI.
-![Running App]()
 
+![Running App]()
 [Source Code]()
