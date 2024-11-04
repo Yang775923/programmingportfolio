@@ -11,7 +11,7 @@
 ### Computer History
 A project with a timeline where when your mouse hovers over the years, the history description pops up.
 
-![Running App]()
+![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/ComputerHistory.png?raw=true)
 
 [Source Code]()
 
