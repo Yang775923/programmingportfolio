@@ -17,7 +17,7 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 ### Grading App
 
-![Running App]()
+![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/GradApp.png?raw=true)
 
 [Source Code]()
 
