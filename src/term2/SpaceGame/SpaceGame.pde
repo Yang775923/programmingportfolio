@@ -1,3 +1,4 @@
+
 // Tiger Yang | 6 Nov 2024 | SpaceGame
 import processing.sound.*;
 SoundFile laser, fart;
@@ -152,7 +153,7 @@ void keyPressed() {
     lasers.add(new Laser(s1.x + 30, s1.y, lpower));
     lasers.add(new Laser(s1.x - 30, s1.y, lpower));
     s1.laserCount--;
-  } else if (keyPressed && key == ' ' && s1.fire() && s1.turretCount == 3) {
+  } else if (keyPressed && key == ' ' && s1.fire() && s1.turretCount >= 3) {
     lasers.add(new Laser(s1.x + 30, s1.y, lpower));
     lasers.add(new Laser(s1.x, s1.y, lpower));
     lasers.add(new Laser(s1.x - 30, s1.y, lpower));
