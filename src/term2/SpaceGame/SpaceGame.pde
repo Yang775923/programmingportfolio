@@ -203,7 +203,8 @@ void startScreen() {
   text("The power ups are almost completely random, but they all, except one, guarentee a health boost, ammo boost, and one special other effect", width/2, 300);
   text("You'll know when you see the small colored text above the powerup)", width/2, 320);
   text("One powerup will give you another turret, one will give a massive buff to many things, one increases damage, and one is completely useless", width/2, 340);
-  text("You will start with 1 hp, each rock collision will lose 100 hp. Game will be over at 0 health (or less)", width/2, 360);
+  text("You will start with 1 hp, each rock collision will lose 100 hp. Rocks hitting the bottom WILL LOSE 1 HP. Game will be over at 0 health (or less)", width/2, 360);
+Game will be over at 0 health (or less)", width/2, 360);
 
   textSize(60);
   text("Please click to start! ", width/2, 640);
