@@ -158,11 +158,6 @@ void keyPressed() {
     lasers.add(new Laser(s1.x, s1.y, lpower));
     lasers.add(new Laser(s1.x - 30, s1.y, lpower));
     s1.laserCount--;
-  } else {
-    lasers.add(new Laser(s1.x + 30, s1.y, lpower));
-    lasers.add(new Laser(s1.x, s1.y, lpower));
-    lasers.add(new Laser(s1.x - 30, s1.y, lpower));
-    s1.laserCount--;
   }
 }
 
