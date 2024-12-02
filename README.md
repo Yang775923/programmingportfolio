@@ -40,7 +40,7 @@ Object oriented graphical calculator with custom but tons and UI.
 ### Space Game
 A game that count score, level, and health all through collision detection. The game also has a start screen and end screen. 
 
-![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/SpaceGame.png?raw=true)
+![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/Spacegame.png?raw=true)
 
 [Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term2/SpaceGame)
 
