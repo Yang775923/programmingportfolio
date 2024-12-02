@@ -37,7 +37,7 @@ void draw() {
     if (frameCount % 1000 == 0) {
       level++;
       rockRate -= 50;
-      lTime.totalTime-=50;
+      lTime.totalTime -= 75;
     }
     stars.add(new Star());
     for (int i=0; i<stars.size(); i++) {
@@ -70,7 +70,7 @@ void draw() {
         powups.remove(pu);
         s1.health += 2;
         s1.laserCount += 1000;
-        //remove all rocks
+        lpower += 5;
       } else if (pu.intersect(s1) && pu.type == 's') {
         powups.remove(pu);
         fart.play();
@@ -209,8 +209,8 @@ void startScreen() {
   text("This game was made by:  Tiger Yang", width/2, 240);
   text("Recommanded to use the spacebar until farther in the game ", width/2, 260);
   text("The powerups will be the big pretty bows", width/2, 280);
-  text("The power ups are completely random, but they all, except one, guarentee a health boost, ammo boost, and one special other effect", width/2, 300);
-  text("You'll never know (teehee)", width/2, 320);
+  text("The power ups are almost completely random, but they all, except one, guarentee a health boost, ammo boost, and one special other effect", width/2, 300);
+  text("You'll know when you see the small colored text above the powerup)", width/2, 320);
   text("One powerup will give you another turret, one will give a massive buff to many things, one increases damage, and one is completely useless", width/2, 340);
   text("You will start with 1 hp, each rock collision will lose 100 hp. Game will be over at 0 health (or less)", width/2, 360);
 
