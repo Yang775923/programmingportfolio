@@ -22,13 +22,18 @@ class Powerup {
   }
 
   void display() {
+    textSize(18);
     if (type == 't') {
       fill(0, 255, 0);
+      text("turret", x,y-30);
     } else if (type == 'a') {
       fill(255, 0, 0);
+      text("laser power", x, y-30);
     } else if (type == 's') {
       fill(0, 0, 255);
+      text("lol", x,y-30);
     } else if (type == 'k') {
+      text("super", x,y-30);
       fill(255);
     }
     imageMode(CENTER);
