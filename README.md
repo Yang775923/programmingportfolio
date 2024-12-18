@@ -1,6 +1,6 @@
 # Tiger Yang's Programming Portfolio 2024-25
 
-<![image](https://github.com/user-attachments/assets/5f890f80-8570-4239-bf00-fec9abe7fb34)>
+![image](https://github.com/user-attachments/assets/5f890f80-8570-4239-bf00-fec9abe7fb34)
 
  * Projected graduation in 2028
  * I have some experience using scratch 
