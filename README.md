@@ -1,6 +1,7 @@
 # Tiger Yang's Programming Portfolio 2024-25
 
-<https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.pinterest.com%2Fpin%2F91549804918093105%2F&psig=AOvVaw3oIAyj4aOu6majLp7NQTBu&ust=1734581757220000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj-muG6sIoDFQAAAAAdAAAAABAE>
+<img src="https://www.artmajeur.com/medias/standard/g/r/grigore-roibu/artwork/17252764_ns2.jpg" alt="Dead Flowers, Photography by Grigore Roibu | Artmajeur"/>
+<![image](https://github.com/user-attachments/assets/5f890f80-8570-4239-bf00-fec9abe7fb34)>
 
  * Projected graduation in 2028
  * I have some experience using scratch 
