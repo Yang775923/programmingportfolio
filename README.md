@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/5f890f80-8570-4239-bf00-fec9abe7fb34)
 
  * Projected graduation in 2028
- * Contact Info: (9710587@graniteschools.org)
+ * Contact Info: 9710587@graniteschools.org
  * I have some experience using scratch 
  * I have learned a bit of javascript in the past
  * When in doubt, restart your device
