@@ -1,6 +1,5 @@
 # Tiger Yang's Programming Portfolio 2024-25
 
-<img src="https://www.artmajeur.com/medias/standard/g/r/grigore-roibu/artwork/17252764_ns2.jpg" alt="Dead Flowers, Photography by Grigore Roibu | Artmajeur"/>
 <![image](https://github.com/user-attachments/assets/5f890f80-8570-4239-bf00-fec9abe7fb34)>
 
  * Projected graduation in 2028
