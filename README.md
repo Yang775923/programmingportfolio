@@ -37,7 +37,7 @@ An app that helps identify your grade based on your PBL score.
 
 ## Term 2
 ### Calculator
-Object oriented graphical calculator with custom but tons and UI.
+Object oriented graphical calculator with custom buttons and UI.
 
 ![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/Calc.png?raw=true)
 
