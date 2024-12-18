@@ -8,7 +8,9 @@
  * When in doubt, restart your device
  * Passed Programming 1 Certificate
 
-![Computer Programming 1 Certificate](https://github.com/user-attachments/assets/02dac9b2-2c06-4442-ab25-902456d9d5b4)
+![Screenshot 2024-12-18 at 12 00 29 PM](https://github.com/user-attachments/assets/4396cafa-e9be-4ae6-92b6-5658e41e0603)
+
+
 
 ## Term 1 
 ### Computer History
