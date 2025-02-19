@@ -50,3 +50,8 @@ A game that count score, level, and health all through collision detection. The 
 
 [Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term2/SpaceGame)
 
+## Term 3 
+### Shape Calculator 
+A calculator that calculates the surface and volume of certain shapes such as cubes, pyramids, and so on so forth
+
+[Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term2/ShapeTester)
