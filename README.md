@@ -54,4 +54,6 @@ A game that count score, level, and health all through collision detection. The 
 ### Shape Calculator 
 A calculator that calculates the surface and volume of certain shapes such as cubes, pyramids, and so on so forth
 
+![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/ShapeTester.png?raw=true)
+
 [Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term2/ShapeTester)
