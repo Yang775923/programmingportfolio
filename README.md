@@ -56,4 +56,4 @@ A calculator that calculates the surface and volume of certain shapes such as cu
 
 ![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/ShapeTester.png?raw=true)
 
-[Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term2/ShapeTester)
+[Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term3/ShapeTester)
