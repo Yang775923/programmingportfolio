@@ -7,7 +7,8 @@
  * I have some experience using scratch 
  * I have learned a bit of javascript in the past
  * When in doubt, restart your device
- * Passed Programming 1 Certificate
+ * Passed Programming 1 Java Certificate
+ * Passed Programming 2 Java Certificate
 
 ![Screenshot 2024-12-18 at 12 00 29 PM](https://github.com/user-attachments/assets/4396cafa-e9be-4ae6-92b6-5658e41e0603)
 
