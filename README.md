@@ -12,6 +12,7 @@
 
 ![Screenshot 2024-12-18 at 12 00 29 PM](https://github.com/user-attachments/assets/4396cafa-e9be-4ae6-92b6-5658e41e0603)
 
+![image](https://github.com/user-attachments/assets/1e2fd235-865b-432b-a272-319269559339)
 
 
 ## Term 1 
