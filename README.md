@@ -7,6 +7,7 @@
  * I have some experience using scratch 
  * I have learned a bit of javascript in the past
  * When in doubt, restart your device
+ * Worked on a project as a group
  * Passed Programming 1 Java Certificate
  * Passed Programming 2 Java Certificate
 
@@ -59,3 +60,9 @@ A calculator that calculates the surface and volume of certain shapes such as cu
 ![Running App](https://github.com/Yang775923/programmingportfolio/blob/main/images/ShapeTester.png?raw=true)
 
 [Source Code](https://github.com/Yang775923/programmingportfolio/tree/main/src/term3/ShapeTester)
+
+## Term 4 
+### Sanguinize
+A OOP Arcade arena hack and slash
+
+https://github.com/fugu2000/sanguinize
