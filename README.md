@@ -65,4 +65,4 @@ A calculator that calculates the surface and volume of certain shapes such as cu
 ### Sanguinize
 A OOP Arcade arena hack and slash
 
-![Running App](https://github.com/fugu2000/sanguinize.git)
+[Source Code](https://github.com/fugu2000/sanguinize.git)
